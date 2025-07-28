@@ -1,0 +1,656 @@
+product_name,size,milk,whip,serv_size_ml,calories,sugar_g,caffeine_mg
+brewed coffee - dark roast,short,0,0,236,3,0,130
+brewed coffee - dark roast,tall,0,0,354,4,0,193
+brewed coffee - dark roast,grande,0,0,473,5,0,260
+brewed coffee - dark roast,venti,0,0,591,5,0,340
+brewed coffee - medium roast,short,0,0,236,3,0,155
+brewed coffee - medium roast,tall,0,0,354,4,0,235
+brewed coffee - medium roast,grande,0,0,473,5,0,310
+brewed coffee - medium roast,venti,0,0,591,5,0,410
+Cold Brewed Coffee,tall,0,0,354,2,0,150
+Cold Brewed Coffee,grande,0,0,473,3,0,200
+Cold Brewed Coffee,venti,0,0,709,4,0,300
+Caffe Latte,tall,1,0,354,100,14,75
+Caffe Latte,tall,2,0,354,150,14,75
+Caffe Latte,tall,5,0,354,180,14,75
+Caffe Latte,tall,3,0,354,110,6,75
+Caffe Latte,tall,4,0,354,110,10,75
+Caffe Latte,grande,1,0,473,130,18,150
+Caffe Latte,grande,2,0,473,190,17,150
+Caffe Latte,grande,5,0,473,230,17,150
+Caffe Latte,grande,3,0,473,150,8,150
+Caffe Latte,grande,4,0,473,140,12,150
+Caffe Latte,venti,1,0,591,170,23,150
+Caffe Latte,venti,2,0,591,240,22,150
+Caffe Latte,venti,5,0,591,290,22,150
+Caffe Latte,venti,3,0,591,190,11,150
+Caffe Latte,venti,4,0,591,170,16,150
+Iced Caffe Latte,tall,1,0,354,70,9,75
+Iced Caffe Latte,tall,2,0,354,100,9,75
+Iced Caffe Latte,tall,5,0,354,120,9,75
+Iced Caffe Latte,tall,3,0,354,80,4,75
+Iced Caffe Latte,tall,4,0,354,70,6,75
+Iced Caffe Latte,grande,1,0,473,90,11,150
+Iced Caffe Latte,grande,2,0,473,130,11,150
+Iced Caffe Latte,grande,5,0,473,150,11,150
+Iced Caffe Latte,grande,3,0,473,100,5,150
+Iced Caffe Latte,grande,4,0,473,90,8,150
+Iced Caffe Latte,venti,1,0,709,130,16,225
+Iced Caffe Latte,venti,2,0,709,180,15,225
+Iced Caffe Latte,venti,5,0,709,210,15,225
+Iced Caffe Latte,venti,3,0,709,150,8,225
+Iced Caffe Latte,venti,4,0,709,130,11,225
+Caffe Mocha,short,1,0,236,120,17,90
+Caffe Mocha,short,1,1,236,180,18,90
+Caffe Mocha,short,2,0,236,150,17,90
+Caffe Mocha,short,2,1,236,200,18,90
+Caffe Mocha,short,5,0,236,160,17,90
+Caffe Mocha,short,5,1,236,210,18,90
+Caffe Mocha,short,3,0,236,130,13,90
+Caffe Mocha,short,3,1,236,180,14,90
+Caffe Mocha,short,4,0,236,130,15,90
+Caffe Mocha,short,4,1,236,180,16,90
+Caffe Mocha,tall,1,0,354,190,27,95
+Caffe Mocha,tall,1,1,354,250,28,95
+Caffe Mocha,tall,2,0,354,230,26,95
+Caffe Mocha,tall,2,1,354,290,28,95
+Caffe Mocha,tall,5,0,354,250,26,95
+Caffe Mocha,tall,5,1,354,310,28,95
+Caffe Mocha,tall,3,0,354,200,20,95
+Caffe Mocha,tall,3,0,354,260,22,95
+Caffe Mocha,tall,4,0,354,190,23,95
+Caffe Mocha,tall,4,1,354,250,25,95
+Caffe Mocha,grande,1,0,473,250,34,175
+Caffe Mocha,grande,1,1,473,320,36,175
+Caffe Mocha,grande,2,0,473,290,34,175
+Caffe Mocha,grande,2,1,473,360,35,175
+Caffe Mocha,grande,5,0,473,330,34,175
+Caffe Mocha,grande,5,1,473,400,35,175
+Caffe Mocha,grande,3,0,473,260,26,175
+Caffe Mocha,grande,3,1,473,330,28,175
+Caffe Mocha,grande,4,0,473,250,30,175
+Caffe Mocha,grande,4,1,473,320,32,175
+Caffe Mocha,venti,1,0,591,310,44,185
+Caffe Mocha,venti,1,1,591,390,45,185
+Caffe Mocha,venti,2,0,591,380,43,185
+Caffe Mocha,venti,2,1,591,450,45,185
+Caffe Mocha,venti,5,0,591,420,43,185
+Caffe Mocha,venti,5,1,591,490,45,185
+Caffe Mocha,venti,3,0,591,330,34,185
+Caffe Mocha,venti,3,1,591,400,35,185
+Caffe Mocha,venti,4,0,591,320,38,185
+Caffe Mocha,venti,4,1,591,390,40,185
+Iced Caffe Mocha,tall,1,0,354,150,22,95
+Iced Caffe Mocha,tall,1,1,354,240,23,95
+Iced Caffe Mocha,tall,2,0,354,180,21,95
+Iced Caffe Mocha,tall,2,1,354,260,23,95
+Iced Caffe Mocha,tall,5,0,354,190,21,95
+Iced Caffe Mocha,tall,5,1,354,270,23,95
+Iced Caffe Mocha,tall,3,0,354,160,18,95
+Iced Caffe Mocha,tall,3,1,354,240,20,95
+Iced Caffe Mocha,tall,4,0,354,150,19,95
+Iced Caffe Mocha,tall,4,1,354,240,22,95
+Iced Caffe Mocha,grande,1,0,473,200,28,175
+Iced Caffe Mocha,grande,1,1,473,320,30,175
+Iced Caffe Mocha,grande,2,0,473,230,28,175
+Iced Caffe Mocha,grande,2,1,473,350,30,175
+Iced Caffe Mocha,grande,5,0,473,250,28,175
+Iced Caffe Mocha,grande,5,1,473,360,30,175
+Iced Caffe Mocha,grande,3,0,473,210,24,175
+Iced Caffe Mocha,grande,3,1,473,330,26,175
+Iced Caffe Mocha,grande,4,0,473,210,26,175
+Iced Caffe Mocha,grande,4,1,473,320,29,175
+Iced Caffe Mocha,venti,1,0,709,300,41,265
+Iced Caffe Mocha,venti,1,1,709,410,43,265
+Iced Caffe Mocha,venti,2,0,709,340,41,265
+Iced Caffe Mocha,venti,2,1,709,450,43,265
+Iced Caffe Mocha,venti,5,0,709,360,41,265
+Iced Caffe Mocha,venti,5,1,709,470,43,265
+Iced Caffe Mocha,venti,3,0,709,310,35,265
+Iced Caffe Mocha,venti,3,1,709,430,37,265
+Iced Caffe Mocha,venti,4,0,709,300,38,265
+Iced Caffe Mocha,venti,4,1,709,420,41,265
+Cappuccino,short,1,0,236,50,7,75
+Cappuccino,short,2,0,236,80,7,75
+Cappuccino,short,5,0,236,90,7,75
+Cappuccino,short,3,0,236,50,3,75
+Cappuccino,short,4,0,236,70,6,75
+Cappuccino,tall,1,0,354,60,8,75
+Cappuccino,tall,2,0,354,90,8,75
+Cappuccino,tall,5,0,354,110,8,75
+Cappuccino,tall,3,0,354,70,4,75
+Cappuccino,tall,4,0,354,100,9,75
+Cappuccino,grande,1,0,473,80,10,150
+Cappuccino,grande,2,0,473,120,10,150
+Cappuccino,grande,5,0,473,140,10,150
+Cappuccino,grande,3,0,473,100,5,150
+Cappuccino,grande,4,0,473,130,12,150
+Cappuccino,venti,1,0,591,110,14,150
+Cappuccino,venti,2,0,591,150,14,150
+Cappuccino,venti,5,0,591,190,14,150
+Cappuccino,venti,3,0,591,120,7,150
+Cappuccino,venti,4,0,591,170,15,150
+Caramel Macchiato,short,1,0,236,100,15,75
+Caramel Macchiato,short,2,0,236,120,15,75
+Caramel Macchiato,short,5,0,236,140,15,75
+Caramel Macchiato,short,3,0,236,100,11,75
+Caramel Macchiato,short,4,0,236,100,13,75
+Caramel Macchiato,tall,1,0,354,150,25,75
+Caramel Macchiato,tall,2,0,354,190,25,75
+Caramel Macchiato,tall,5,0,354,210,25,75
+Caramel Macchiato,tall,3,0,354,160,19,75
+Caramel Macchiato,tall,4,0,354,150,21,75
+Caramel Macchiato,grande,1,0,473,200,34,150
+Caramel Macchiato,grande,2,0,473,250,33,150
+Caramel Macchiato,grande,5,0,473,280,33,150
+Caramel Macchiato,grande,3,0,473,210,26,150
+Caramel Macchiato,grande,4,0,473,200,29,150
+Caramel Macchiato,venti,1,0,591,250,42,150
+Caramel Macchiato,venti,2,0,591,310,42,150
+Caramel Macchiato,venti,5,0,591,350,42,150
+Caramel Macchiato,venti,3,0,591,260,33,150
+Caramel Macchiato,venti,4,0,591,250,36,150
+Iced Caramel Macchiato,tall,1,0,354,140,24,75
+Iced Caramel Macchiato,tall,2,0,354,180,24,75
+Iced Caramel Macchiato,tall,5,0,354,200,24,75
+Iced Caramel Macchiato,tall,3,0,354,160,19,75
+Iced Caramel Macchiato,tall,4,0,354,140,21,75
+Iced Caramel Macchiato,grande,1,0,473,210,35,150
+Iced Caramel Macchiato,grande,2,0,473,250,34,150
+Iced Caramel Macchiato,grande,5,0,473,280,34,150
+Iced Caramel Macchiato,grande,3,0,473,220,28,150
+Iced Caramel Macchiato,grande,4,0,473,210,30,150
+Iced Caramel Macchiato,venti,1,0,591,290,50,225
+Iced Caramel Macchiato,venti,2,0,591,350,49,225
+Iced Caramel Macchiato,venti,5,0,591,390,49,225
+Iced Caramel Macchiato,venti,3,0,591,310,40,225
+Iced Caramel Macchiato,venti,4,0,591,290,43,225
+Espresso,solo,0,0,0,5,0,75
+Espresso,doppio,0,0,0,10,0,150
+Espresso,triple,0,0,0,15,0,225
+Espresso,quad,0,0,0,20,0,300
+Flat White,short,1,0,236,60,8,130
+Flat White,short,2,0,236,90,8,130
+Flat White,short,5,0,236,110,8,130
+Flat White,short,3,0,236,70,4,130
+Flat White,short,4,0,236,60,5,130
+Flat White,tall,1,0,354,100,13,130
+Flat White,tall,2,0,354,140,13,130
+Flat White,tall,5,0,354,170,13,130
+Flat White,tall,3,0,354,110,6,130
+Flat White,tall,4,0,354,100,9,130
+Flat White,grande,1,0,473,130,17,195
+Flat White,grande,2,0,473,180,17,195
+Flat White,grande,5,0,473,220,17,195
+Flat White,grande,3,0,473,150,8,195
+Flat White,grande,4,0,473,130,11,195
+Flat White,venti,1,0,591,170,23,195
+Flat White,venti,2,0,591,240,22,195
+Flat White,venti,5,0,591,290,22,195
+Flat White,venti,3,0,591,190,11,195
+Flat White,venti,4,0,591,170,15,195
+Latte Macchiato,short,1,0,236,60,8,150
+Latte Macchiato,short,2,0,236,90,8,150
+Latte Macchiato,short,5,0,236,110,8,150
+Latte Macchiato,short,3,0,236,70,4,150
+Latte Macchiato,short,4,0,236,70,5,150
+Latte Macchiato,tall,1,0,354,100,13,150
+Latte Macchiato,tall,2,0,354,140,13,150
+Latte Macchiato,tall,5,0,354,170,13,150
+Latte Macchiato,tall,3,0,354,110,6,150
+Latte Macchiato,tall,4,0,354,100,9,150
+Latte Macchiato,grande,1,0,473,130,17,225
+Latte Macchiato,grande,2,0,473,190,17,225
+Latte Macchiato,grande,5,0,473,220,17,225
+Latte Macchiato,grande,3,0,473,140,8,225
+Latte Macchiato,grande,4,0,473,130,11,225
+Latte Macchiato,venti,1,0,591,170,23,225
+Latte Macchiato,venti,2,0,591,240,22,225
+Latte Macchiato,venti,5,0,591,290,22,225
+Latte Macchiato,venti,3,0,591,90,10,225
+Latte Macchiato,venti,4,0,591,170,15,225
+White Chocolate Mocha,short,1,0,236,180,29,75
+White Chocolate Mocha,short,1,1,236,230,30,75
+White Chocolate Mocha,short,2,0,236,200,29,75
+White Chocolate Mocha,short,2,1,236,250,30,75
+White Chocolate Mocha,short,5,0,236,210,29,75
+White Chocolate Mocha,short,5,1,236,270,30,75
+White Chocolate Mocha,short,3,0,236,180,25,75
+White Chocolate Mocha,short,3,0,236,230,26,75
+White Chocolate Mocha,short,4,0,236,180,27,75
+White Chocolate Mocha,short,4,1,236,230,28,75
+White Chocolate Mocha,tall,1,0,354,270,45,75
+White Chocolate Mocha,tall,1,1,354,330,46,75
+White Chocolate Mocha,tall,2,0,354,300,44,75
+White Chocolate Mocha,tall,2,1,354,370,46,75
+White Chocolate Mocha,tall,5,0,354,330,44,75
+White Chocolate Mocha,tall,5,1,354,390,46,75
+White Chocolate Mocha,tall,3,0,354,280,38,75
+White Chocolate Mocha,tall,3,1,354,340,40,75
+White Chocolate Mocha,tall,4,0,354,270,41,75
+White Chocolate Mocha,tall,4,1,354,330,43,75
+White Chocolate Mocha,grande,1,0,473,350,58,150
+White Chocolate Mocha,grande,1,1,473,420,60,150
+White Chocolate Mocha,grande,2,0,473,400,58,150
+White Chocolate Mocha,grande,2,1,473,470,59,150
+White Chocolate Mocha,grande,5,0,473,430,58,150
+White Chocolate Mocha,grande,5,1,473,500,59,150
+White Chocolate Mocha,grande,3,0,473,360,51,150
+White Chocolate Mocha,grande,3,1,473,430,52,150
+White Chocolate Mocha,grande,4,0,473,350,54,150
+White Chocolate Mocha,grande,4,1,473,420,56,150
+White Chocolate Mocha,venti,1,0,591,440,74,150
+White Chocolate Mocha,venti,1,1,591,510,76,150
+White Chocolate Mocha,venti,2,0,591,500,74,150
+White Chocolate Mocha,venti,2,1,591,580,75,150
+White Chocolate Mocha,venti,5,0,591,550,74,150
+White Chocolate Mocha,venti,5,1,591,620,75,150
+White Chocolate Mocha,venti,3,0,591,460,64,150
+White Chocolate Mocha,venti,3,1,591,530,65,150
+White Chocolate Mocha,venti,4,0,591,450,68,150
+White Chocolate Mocha,venti,4,1,591,520,70,150
+Iced White Chocolate Mocha,tall,1,0,354,230,40,75
+Iced White Chocolate Mocha,tall,1,1,354,310,41,75
+Iced White Chocolate Mocha,tall,2,0,354,250,39,75
+Iced White Chocolate Mocha,tall,2,1,354,330,41,75
+Iced White Chocolate Mocha,tall,5,0,354,270,39,75
+Iced White Chocolate Mocha,tall,5,1,354,350,41,75
+Iced White Chocolate Mocha,tall,3,0,354,240,36,75
+Iced White Chocolate Mocha,tall,3,1,354,320,38,75
+Iced White Chocolate Mocha,tall,4,0,354,230,37,75
+Iced White Chocolate Mocha,tall,4,1,354,310,39,75
+Iced White Chocolate Mocha,grande,1,0,473,310,52,150
+Iced White Chocolate Mocha,grande,1,1,473,420,55,150
+Iced White Chocolate Mocha,grande,2,0,473,330,52,150
+Iced White Chocolate Mocha,grande,2,1,473,450,54,150
+Iced White Chocolate Mocha,grande,5,0,473,350,52,150
+Iced White Chocolate Mocha,grande,5,1,473,470,54,150
+Iced White Chocolate Mocha,grande,3,0,473,320,48,150
+Iced White Chocolate Mocha,grande,3,1,473,430,50,150
+Iced White Chocolate Mocha,grande,4,0,473,310,49,150
+Iced White Chocolate Mocha,grande,4,1,473,420,52,150
+Iced White Chocolate Mocha,venti,1,0,709,450,77,225
+Iced White Chocolate Mocha,venti,1,1,709,570,80,225
+Iced White Chocolate Mocha,venti,2,0,709,490,77,225
+Iced White Chocolate Mocha,venti,2,1,709,600,79,225
+Iced White Chocolate Mocha,venti,5,0,709,520,77,225
+Iced White Chocolate Mocha,venti,5,1,709,630,79,225
+Iced White Chocolate Mocha,venti,3,0,709,470,71,225
+Iced White Chocolate Mocha,venti,3,1,709,580,74,225
+Iced White Chocolate Mocha,venti,4,0,709,450,73,225
+Iced White Chocolate Mocha,venti,4,1,709,570,76,225
+Chai tea Latte,short,1,0,236,100,21,50
+Chai tea Latte,short,2,0,236,120,21,50
+Chai tea Latte,short,5,0,236,130,21,50
+Chai tea Latte,short,3,0,236,110,18,50
+Chai tea Latte,short,4,0,236,100,19,50
+Chai tea Latte,tall,1,0,354,160,32,70
+Chai tea Latte,tall,2,0,354,190,32,70
+Chai tea Latte,tall,5,0,354,200,32,70
+Chai tea Latte,tall,3,0,354,160,28,70
+Chai tea Latte,tall,4,0,354,160,29,70
+Chai tea Latte,grande,1,0,473,210,43,95
+Chai tea Latte,grande,2,0,473,240,42,95
+Chai tea Latte,grande,5,0,473,270,42,95
+Chai tea Latte,grande,3,0,473,220,37,95
+Chai tea Latte,grande,4,0,473,210,39,95
+Chai tea Latte,venti,1,0,591,260,54,120
+Chai tea Latte,venti,2,0,591,310,53,120
+Chai tea Latte,venti,5,0,591,340,53,120
+Chai tea Latte,venti,3,0,591,280,46,120
+Chai tea Latte,venti,4,0,591,260,48,120
+Iced Chai Tea Latte,tall,1,0,354,150,31,70
+Iced Chai Tea Latte,tall,2,0,354,180,31,70
+Iced Chai Tea Latte,tall,5,0,354,190,31,70
+Iced Chai Tea Latte,tall,3,0,354,160,27,70
+Iced Chai Tea Latte,tall,4,0,354,150,29,70
+Iced Chai Tea Latte,grande,1,0,473,200,42,95
+Iced Chai Tea Latte,grande,2,0,473,240,42,95
+Iced Chai Tea Latte,grande,5,0,473,260,42,95
+Iced Chai Tea Latte,grande,3,0,473,220,37,95
+Iced Chai Tea Latte,grande,4,0,473,200,38,95
+Iced Chai Tea Latte,venti,1,0,709,300,62,145
+Iced Chai Tea Latte,venti,2,0,709,350,61,145
+Iced Chai Tea Latte,venti,5,0,709,380,61,145
+Iced Chai Tea Latte,venti,3,0,709,320,55,145
+Iced Chai Tea Latte,venti,4,0,709,300,57,145
+Green Tea Latte,short,1,0,236,80,14,30
+Green Tea Latte,short,2,0,236,110,14,30
+Green Tea Latte,short,5,0,236,130,14,30
+Green Tea Latte,short,3,0,236,90,9,30
+Green Tea Latte,short,4,0,236,80,11,30
+Green Tea Latte,tall,1,0,354,140,24,55
+Green Tea Latte,tall,2,0,354,190,24,55
+Green Tea Latte,tall,5,0,354,220,24,55
+Green Tea Latte,tall,3,0,354,160,17,55
+Green Tea Latte,tall,4,0,354,140,19,55
+Green Tea Latte,grande,1,0,473,190,33,80
+Green Tea Latte,grande,2,0,473,240,32,80
+Green Tea Latte,grande,5,0,473,280,32,80
+Green Tea Latte,grande,3,0,473,210,24,80
+Green Tea Latte,grande,4,0,473,190,27,80
+Green Tea Latte,venti,1,0,591,250,44,110
+Green Tea Latte,venti,2,0,591,320,43,110
+Green Tea Latte,venti,5,0,591,370,43,110
+Green Tea Latte,venti,3,0,591,280,32,110
+Green Tea Latte,venti,4,0,591,250,36,110
+Caffe Vanilla Frappuccino Blended,tall,1,0,354,200,46,65
+Caffe Vanilla Frappuccino Blended,tall,1,1,354,280,48,65
+Caffe Vanilla Frappuccino Blended,tall,2,0,354,210,46,65
+Caffe Vanilla Frappuccino Blended,tall,2,1,354,290,48,65
+Caffe Vanilla Frappuccino Blended,tall,5,0,354,220,46,65
+Caffe Vanilla Frappuccino Blended,tall,5,1,354,300,48,65
+Caffe Vanilla Frappuccino Blended,tall,3,0,354,200,44,65
+Caffe Vanilla Frappuccino Blended,tall,3,1,354,290,46,65
+Caffe Vanilla Frappuccino Blended,tall,4,0,354,200,45,65
+Caffe Vanilla Frappuccino Blended,tall,4,1,354,280,47,65
+Caffe Vanilla Frappuccino Blended,grande,1,0,473,290,67,95
+Caffe Vanilla Frappuccino Blended,grande,1,1,473,400,69,95
+Caffe Vanilla Frappuccino Blended,grande,2,0,473,300,67,95
+Caffe Vanilla Frappuccino Blended,grande,2,1,473,420,69,95
+Caffe Vanilla Frappuccino Blended,grande,5,0,473,310,67,95
+Caffe Vanilla Frappuccino Blended,grande,5,1,473,430,69,95
+Caffe Vanilla Frappuccino Blended,grande,3,0,473,290,64,95
+Caffe Vanilla Frappuccino Blended,grande,3,1,473,410,67,95
+Caffe Vanilla Frappuccino Blended,grande,4,0,473,290,66,95
+Caffe Vanilla Frappuccino Blended,grande,4,1,473,400,69,95
+Caffe Vanilla Frappuccino Blended,venti,1,0,709,370,86,125
+Caffe Vanilla Frappuccino Blended,venti,1,1,709,490,88,125
+Caffe Vanilla Frappuccino Blended,venti,2,0,709,400,86,125
+Caffe Vanilla Frappuccino Blended,venti,2,1,709,510,88,125
+Caffe Vanilla Frappuccino Blended,venti,5,0,709,410,86,125
+Caffe Vanilla Frappuccino Blended,venti,5,1,709,530,88,125
+Caffe Vanilla Frappuccino Blended,venti,3,0,709,380,82,125
+Caffe Vanilla Frappuccino Blended,venti,3,1,709,500,85,125
+Caffe Vanilla Frappuccino Blended,venti,4,0,709,380,84,125
+Caffe Vanilla Frappuccino Blended,venti,4,1,709,490,87,125
+Caramel Frappuccino Blended,tall,1,0,354,180,42,70
+Caramel Frappuccino Blended,tall,1,1,354,280,47,70
+Caramel Frappuccino Blended,tall,2,0,354,190,42,70
+Caramel Frappuccino Blended,tall,2,1,354,290,46,70
+Caramel Frappuccino Blended,tall,5,0,354,200,42,70
+Caramel Frappuccino Blended,tall,5,1,354,300,46,70
+Caramel Frappuccino Blended,tall,3,0,354,190,40,70
+Caramel Frappuccino Blended,tall,3,1,354,280,45,70
+Caramel Frappuccino Blended,tall,4,0,354,180,40,70
+Caramel Frappuccino Blended,tall,4,1,354,280,45,70
+Caramel Frappuccino Blended,grande,1,0,473,260,60,100
+Caramel Frappuccino Blended,grande,1,1,473,390,66,100
+Caramel Frappuccino Blended,grande,2,0,473,270,60,100
+Caramel Frappuccino Blended,grande,2,1,473,410,66,100
+Caramel Frappuccino Blended,grande,5,0,473,280,60,100
+Caramel Frappuccino Blended,grande,5,1,473,420,66,100
+Caramel Frappuccino Blended,grande,3,0,473,260,57,100
+Caramel Frappuccino Blended,grande,3,1,473,400,63,100
+Caramel Frappuccino Blended,grande,4,0,473,260,58,100
+Caramel Frappuccino Blended,grande,4,1,473,390,64,100
+Caramel Frappuccino Blended,venti,1,0,709,340,78,130
+Caramel Frappuccino Blended,venti,1,1,709,470,84,130
+Caramel Frappuccino Blended,venti,2,0,709,360,78,130
+Caramel Frappuccino Blended,venti,2,1,709,500,84,130
+Caramel Frappuccino Blended,venti,5,0,709,380,78,130
+Caramel Frappuccino Blended,venti,5,1,709,510,84,130
+Caramel Frappuccino Blended,venti,3,0,709,350,74,130
+Caramel Frappuccino Blended,venti,3,1,709,480,80,130
+Caramel Frappuccino Blended,venti,4,0,709,340,75,130
+Caramel Frappuccino Blended,venti,4,1,709,470,81,130
+Espresso Frappuccino Blended,tall,1,0,354,150,33,130
+Espresso Frappuccino Blended,tall,2,0,354,150,33,130
+Espresso Frappuccino Blended,tall,5,0,354,160,33,130
+Espresso Frappuccino Blended,tall,3,0,354,150,31,130
+Espresso Frappuccino Blended,tall,4,0,354,150,32,130
+Espresso Frappuccino Blended,grande,1,0,473,210,49,165
+Espresso Frappuccino Blended,grande,2,0,473,220,48,165
+Espresso Frappuccino Blended,grande,5,0,473,230,48,165
+Espresso Frappuccino Blended,grande,3,0,473,220,47,165
+Espresso Frappuccino Blended,grande,4,0,473,220,48,165
+Espresso Frappuccino Blended,venti,1,0,709,280,63,185
+Espresso Frappuccino Blended,venti,2,0,709,300,63,185
+Espresso Frappuccino Blended,venti,5,0,709,310,63,185
+Espresso Frappuccino Blended,venti,3,0,709,290,60,165
+Espresso Frappuccino Blended,venti,4,0,709,280,62,165
+Java Chip Frappuccino Blended,tall,1,0,354,230,44,75
+Java Chip Frappuccino Blended,tall,1,1,354,230,47,75
+Java Chip Frappuccino Blended,tall,2,0,354,240,44,75
+Java Chip Frappuccino Blended,tall,2,1,354,330,47,75
+Java Chip Frappuccino Blended,tall,5,0,354,250,44,75
+Java Chip Frappuccino Blended,tall,5,1,354,340,47,75
+Java Chip Frappuccino Blended,tall,3,0,354,230,42,75
+Java Chip Frappuccino Blended,tall,3,1,354,320,45,75
+Java Chip Frappuccino Blended,tall,4,0,354,230,43,75
+Java Chip Frappuccino Blended,tall,4,1,354,320,46,75
+Java Chip Frappuccino Blended,grande,1,0,473,320,63,110
+Java Chip Frappuccino Blended,grande,1,1,473,440,67,110
+Java Chip Frappuccino Blended,grande,2,0,473,340,63,110
+Java Chip Frappuccino Blended,grande,2,1,473,460,66,110
+Java Chip Frappuccino Blended,grande,5,0,473,350,63,110
+Java Chip Frappuccino Blended,grande,5,1,473,470,66,110
+Java Chip Frappuccino Blended,grande,3,0,473,330,61,110
+Java Chip Frappuccino Blended,grande,3,1,473,450,64,110
+Java Chip Frappuccino Blended,grande,4,0,473,320,61,110
+Java Chip Frappuccino Blended,grande,4,1,473,440,66,110
+Java Chip Frappuccino Blended,venti,1,0,709,440,85,145
+Java Chip Frappuccino Blended,venti,1,1,709,560,89,145
+Java Chip Frappuccino Blended,venti,2,0,709,460,85,145
+Java Chip Frappuccino Blended,venti,2,1,709,580,88,145
+Java Chip Frappuccino Blended,venti,5,0,709,480,85,145
+Java Chip Frappuccino Blended,venti,5,1,709,600,88,145
+Java Chip Frappuccino Blended,venti,3,0,709,450,81,145
+Java Chip Frappuccino Blended,venti,3,1,709,570,85,145
+Java Chip Frappuccino Blended,venti,4,0,709,440,82,145
+Java Chip Frappuccino Blended,venti,4,1,709,560,87,145
+Iced Caffe Mocha,tall,1,0,354,190,40,75
+Iced Caffe Mocha,tall,1,1,354,270,42,75
+Iced Caffe Mocha,tall,2,0,354,200,40,75
+Iced Caffe Mocha,tall,2,1,354,280,42,75
+Iced Caffe Mocha,tall,5,0,354,210,40,75
+Iced Caffe Mocha,tall,5,1,354,290,42,75
+Iced Caffe Mocha,tall,3,0,354,190,38,75
+Iced Caffe Mocha,tall,3,1,354,270,40,75
+Iced Caffe Mocha,tall,4,0,354,190,39,75
+Iced Caffe Mocha,tall,4,1,354,270,41,75
+Iced Caffe Mocha,grande,1,0,473,270,59,110
+Iced Caffe Mocha,grande,1,1,473,390,61,110
+Iced Caffe Mocha,grande,2,0,473,290,58,110
+Iced Caffe Mocha,grande,2,1,473,400,61,110
+Iced Caffe Mocha,grande,5,0,473,300,58,110
+Iced Caffe Mocha,grande,5,1,473,410,61,110
+Iced Caffe Mocha,grande,3,0,473,280,56,110
+Iced Caffe Mocha,grande,3,1,473,390,58,110
+Iced Caffe Mocha,grande,4,0,473,270,57,110
+Iced Caffe Mocha,grande,4,1,473,390,60,110
+Iced Caffe Mocha,venti,1,0,709,360,77,140
+Iced Caffe Mocha,venti,1,1,709,480,80,140
+Iced Caffe Mocha,venti,2,0,709,390,77,140
+Iced Caffe Mocha,venti,2,1,709,500,80,140
+Iced Caffe Mocha,venti,5,0,709,400,77,140
+Iced Caffe Mocha,venti,5,1,709,520,80,140
+Iced Caffe Mocha,venti,3,0,709,370,74,140
+Iced Caffe Mocha,venti,3,1,709,490,76,140
+Iced Caffe Mocha,venti,4,0,709,360,75,140
+Iced Caffe Mocha,venti,4,1,709,470,78,140
+Caramel Frappuccino Light,tall,1,0,354,100,23,65
+Caramel Frappuccino Light,grande,1,0,473,150,32,90
+Caramel Frappuccino Light,venti,1,0,709,200,43,120
+Coffee Frappuccino Light,tall,1,0,354,90,19,70
+Coffee Frappuccino Light,grande,1,0,473,120,26,95
+Coffee Frappuccino Light,venti,1,0,709,160,33,120
+Espresso Frappuccino Light,tall,1,0,354,80,16,125
+Espresso Frappuccino Light,grande,1,0,473,120,24,155
+Espresso Frappuccino Light,venti,1,0,709,160,34,150
+Java Chip Light Frappuccino,tall,1,0,354,160,27,75
+Java Chip Light Frappuccino,grande,1,0,473,230,39,110
+Java Chip Light Frappuccino,venti,1,0,709,300,52,140
+Mocha Light Frappuccino,tall,1,0,354,120,23,70
+Mocha Light Frappuccino,grande,1,0,473,160,30,95
+Mocha Light Frappuccino,venti,1,0,709,220,42,130
+Green Tea Creme Frappuccino Blended,tall,1,0,354,210,46,50
+Green Tea Creme Frappuccino Blended,tall,1,1,354,290,48,50
+Green Tea Creme Frappuccino Blended,tall,2,0,354,230,46,50
+Green Tea Creme Frappuccino Blended,tall,2,1,354,310,48,50
+Green Tea Creme Frappuccino Blended,tall,5,0,354,240,46,50
+Green Tea Creme Frappuccino Blended,tall,5,1,354,320,48,50
+Green Tea Creme Frappuccino Blended,tall,3,0,354,220,44,50
+Green Tea Creme Frappuccino Blended,tall,3,1,354,300,45,50
+Green Tea Creme Frappuccino Blended,tall,4,0,354,210,44,50
+Green Tea Creme Frappuccino Blended,tall,4,1,354,290,47,50
+Green Tea Creme Frappuccino Blended,grande,1,0,473,280,63,70
+Green Tea Creme Frappuccino Blended,grande,1,1,473,400,65,70
+Green Tea Creme Frappuccino Blended,grande,2,0,473,300,63,70
+Green Tea Creme Frappuccino Blended,grande,2,1,473,420,65,70
+Green Tea Creme Frappuccino Blended,grande,5,0,473,320,63,70
+Green Tea Creme Frappuccino Blended,grande,5,1,473,430,65,70
+Green Tea Creme Frappuccino Blended,grande,3,0,473,290,60,70
+Green Tea Creme Frappuccino Blended,grande,3,1,473,400,62,70
+Green Tea Creme Frappuccino Blended,grande,4,0,473,280,61,70
+Green Tea Creme Frappuccino Blended,grande,4,1,473,390,64,70
+Green Tea Creme Frappuccino Blended,venti,1,0,709,390,86,95
+Green Tea Creme Frappuccino Blended,venti,1,1,709,500,88,95
+Green Tea Creme Frappuccino Blended,venti,2,0,709,420,86,95
+Green Tea Creme Frappuccino Blended,venti,2,1,709,530,88,95
+Green Tea Creme Frappuccino Blended,venti,5,0,709,440,86,95
+Green Tea Creme Frappuccino Blended,venti,5,1,709,550,88,95
+Green Tea Creme Frappuccino Blended,venti,3,0,709,400,81,95
+Green Tea Creme Frappuccino Blended,venti,3,1,709,510,83,95
+Green Tea Creme Frappuccino Blended,venti,4,0,709,380,82,95
+Green Tea Creme Frappuccino Blended,venti,4,1,709,500,85,95
+Strawberries & Creme Frappuccino Blended,tall,1,0,354,170,37,0
+Strawberries & Creme Frappuccino Blended,tall,1,1,354,250,39,0
+Strawberries & Creme Frappuccino Blended,tall,2,0,354,180,37,0
+Strawberries & Creme Frappuccino Blended,tall,2,1,354,260,39,0
+Strawberries & Creme Frappuccino Blended,tall,5,0,354,190,37,0
+Strawberries & Creme Frappuccino Blended,tall,5,1,354,270,39,0
+Strawberries & Creme Frappuccino Blended,tall,3,0,354,170,35,0
+Strawberries & Creme Frappuccino Blended,tall,3,1,354,250,37,0
+Strawberries & Creme Frappuccino Blended,tall,4,0,354,170,35,0
+Strawberries & Creme Frappuccino Blended,tall,4,1,354,250,38,0
+Strawberries & Creme Frappuccino Blended,grande,1,0,473,230,52,0
+Strawberries & Creme Frappuccino Blended,grande,1,1,473,340,54,0
+Strawberries & Creme Frappuccino Blended,grande,2,0,473,250,51,0
+Strawberries & Creme Frappuccino Blended,grande,2,1,473,360,54,0
+Strawberries & Creme Frappuccino Blended,grande,5,0,473,260,51,0
+Strawberries & Creme Frappuccino Blended,grande,5,1,473,370,54,0
+Strawberries & Creme Frappuccino Blended,grande,3,0,473,240,49,0
+Strawberries & Creme Frappuccino Blended,grande,3,1,473,350,51,0
+Strawberries & Creme Frappuccino Blended,grande,4,0,473,230,49,0
+Strawberries & Creme Frappuccino Blended,grande,4,1,473,340,53,0
+Strawberries & Creme Frappuccino Blended,venti,1,0,709,300,68,0
+Strawberries & Creme Frappuccino Blended,venti,1,1,709,420,70,0
+Strawberries & Creme Frappuccino Blended,venti,2,0,709,330,68,0
+Strawberries & Creme Frappuccino Blended,venti,2,1,709,450,70,0
+Strawberries & Creme Frappuccino Blended,venti,5,0,709,350,68,0
+Strawberries & Creme Frappuccino Blended,venti,5,1,709,460,70,0
+Strawberries & Creme Frappuccino Blended,venti,3,0,709,310,63,0
+Strawberries & Creme Frappuccino Blended,venti,3,1,709,430,66,0
+Strawberries & Creme Frappuccino Blended,venti,4,0,709,300,65,0
+Strawberries & Creme Frappuccino Blended,venti,4,1,709,420,68,0
+Vanilla Bean Creme Frappuccino Blended,tall,1,0,354,170,38,0
+Vanilla Bean Creme Frappuccino Blended,tall,1,1,354,250,40,0
+Vanilla Bean Creme Frappuccino Blended,tall,2,0,354,190,38,0
+Vanilla Bean Creme Frappuccino Blended,tall,2,1,354,270,39,0
+Vanilla Bean Creme Frappuccino Blended,tall,5,0,354,200,38,0
+Vanilla Bean Creme Frappuccino Blended,tall,5,1,354,280,39,0
+Vanilla Bean Creme Frappuccino Blended,tall,3,0,354,180,35,0
+Vanilla Bean Creme Frappuccino Blended,tall,3,1,354,260,37,0
+Vanilla Bean Creme Frappuccino Blended,tall,4,0,354,170,36,0
+Vanilla Bean Creme Frappuccino Blended,tall,4,1,354,250,38,0
+Vanilla Bean Creme Frappuccino Blended,grande,1,0,473,240,55,0
+Vanilla Bean Creme Frappuccino Blended,grande,1,1,473,360,57,0
+Vanilla Bean Creme Frappuccino Blended,grande,2,0,473,270,55,0
+Vanilla Bean Creme Frappuccino Blended,grande,2,1,473,380,57,0
+Vanilla Bean Creme Frappuccino Blended,grande,5,0,473,280,55,0
+Vanilla Bean Creme Frappuccino Blended,grande,5,1,473,400,57,0
+Vanilla Bean Creme Frappuccino Blended,grande,3,0,473,250,51,0
+Vanilla Bean Creme Frappuccino Blended,grande,3,1,473,370,54,0
+Vanilla Bean Creme Frappuccino Blended,grande,4,0,473,240,52,0
+Vanilla Bean Creme Frappuccino Blended,grande,4,1,473,360,56,0
+Vanilla Bean Creme Frappuccino Blended,venti,1,0,709,320,71,0
+Vanilla Bean Creme Frappuccino Blended,venti,1,1,709,430,73,0
+Vanilla Bean Creme Frappuccino Blended,venti,2,0,709,350,71,0
+Vanilla Bean Creme Frappuccino Blended,venti,2,1,709,460,73,0
+Vanilla Bean Creme Frappuccino Blended,venti,5,0,709,370,71,0
+Vanilla Bean Creme Frappuccino Blended,venti,5,1,709,490,73,0
+Vanilla Bean Creme Frappuccino Blended,venti,3,0,709,330,66,0
+Vanilla Bean Creme Frappuccino Blended,venti,3,1,709,440,68,0
+Vanilla Bean Creme Frappuccino Blended,venti,4,0,709,310,67,0
+Vanilla Bean Creme Frappuccino Blended,venti,4,1,709,430,70,0
+Hot Chocolate,short,1,0,236,140,23,15
+Hot Chocolate,short,1,1,236,200,24,15
+Hot Chocolate,short,2,0,236,170,22,15
+Hot Chocolate,short,2,1,236,230,24,15
+Hot Chocolate,short,5,0,236,190,22,15
+Hot Chocolate,short,5,1,236,250,24,15
+Hot Chocolate,short,3,0,236,150,18,15
+Hot Chocolate,short,3,0,236,210,20,15
+Hot Chocolate,short,4,0,236,140,20,15
+Hot Chocolate,short,4,1,236,200,22,15
+Hot Chocolate,tall,1,0,354,210,32,20
+Hot Chocolate,tall,1,1,354,280,34,20
+Hot Chocolate,tall,2,0,354,250,32,20
+Hot Chocolate,tall,2,1,354,320,34,20
+Hot Chocolate,tall,5,0,354,280,32,20
+Hot Chocolate,tall,5,1,354,350,34,20
+Hot Chocolate,tall,3,0,354,220,25,20
+Hot Chocolate,tall,3,1,354,290,28,20
+Hot Chocolate,tall,4,0,354,210,28,20
+Hot Chocolate,tall,4,1,354,280,31,20
+Hot Chocolate,grande,1,0,473,270,41,25
+Hot Chocolate,grande,1,1,473,350,43,25
+Hot Chocolate,grande,2,0,473,320,41,25
+Hot Chocolate,grande,2,1,473,400,43,25
+Hot Chocolate,grande,5,0,473,360,41,25
+Hot Chocolate,grande,5,1,473,440,43,25
+Hot Chocolate,grande,3,0,473,280,32,25
+Hot Chocolate,grande,3,1,473,360,35,25
+Hot Chocolate,grande,4,0,473,270,35,25
+Hot Chocolate,grande,4,1,473,350,38,30
+Hot Chocolate,venti,1,0,591,350,55,35
+Hot Chocolate,venti,1,1,591,430,58,35
+Hot Chocolate,venti,2,0,591,420,55,35
+Hot Chocolate,venti,2,1,591,500,57,35
+Hot Chocolate,venti,5,0,591,470,55,35
+Hot Chocolate,venti,5,1,591,550,57,35
+Hot Chocolate,venti,3,0,591,370,44,35
+Hot Chocolate,venti,3,1,591,450,46,35
+Hot Chocolate,venti,4,0,591,360,48,35
+Hot Chocolate,venti,4,1,591,430,51,35
+White Hot Chocolate,short,1,0,236,180,30,0
+White Hot Chocolate,short,1,1,236,230,32,0
+White Hot Chocolate,short,2,0,236,210,30,0
+White Hot Chocolate,short,2,1,236,260,31,0
+White Hot Chocolate,short,5,0,236,220,30,0
+White Hot Chocolate,short,5,1,236,280,31,0
+White Hot Chocolate,short,3,0,236,190,26,0
+White Hot Chocolate,short,3,0,236,240,27,0
+White Hot Chocolate,short,4,0,236,180,28,0
+White Hot Chocolate,short,4,1,236,230,29,0
+White Hot Chocolate,tall,1,0,354,270,46,0
+White Hot Chocolate,tall,1,1,354,330,47,0
+White Hot Chocolate,tall,2,0,354,310,46,0
+White Hot Chocolate,tall,2,1,354,370,47,0
+White Hot Chocolate,tall,5,0,354,340,46,0
+White Hot Chocolate,tall,5,1,354,400,47,0
+White Hot Chocolate,tall,3,0,354,280,39,0
+White Hot Chocolate,tall,3,1,354,340,40,0
+White Hot Chocolate,tall,4,0,354,270,42,0
+White Hot Chocolate,tall,4,1,354,330,43,0
+White Hot Chocolate,grande,1,0,473,360,61,0
+White Hot Chocolate,grande,1,1,473,430,62,0
+White Hot Chocolate,grande,2,0,473,410,60,0
+White Hot Chocolate,grande,2,1,473,480,62,0
+White Hot Chocolate,grande,5,0,473,450,60,0
+White Hot Chocolate,grande,5,1,473,520,62,0
+White Hot Chocolate,grande,3,0,473,370,52,0
+White Hot Chocolate,grande,3,1,473,440,53,0
+White Hot Chocolate,grande,4,0,473,360,55,0
+White Hot Chocolate,grande,4,1,473,430,57,0
+    White Hot Chocolate,venti,1,0,591,450,77,0
+    White Hot Chocolate,venti,1,1,591,520,78,0
+    White Hot Chocolate,venti,2,0,591,520,76,0
+    White Hot Chocolate,venti,2,1,591,590,78,0
+    White Hot Chocolate,venti,5,0,591,570,76,0
+    White Hot Chocolate,venti,5,1,591,640,78,0
+    White Hot Chocolate,venti,3,0,591,470,65,0
+    White Hot Chocolate,venti,3,1,591,540,67,0
+    White Hot Chocolate,venti,4,0,591,450,69,0
+    White Hot Chocolate,venti,4,1,591,520,71,0
